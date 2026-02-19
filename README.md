@@ -17,7 +17,7 @@
 ## 🚀 Live Demo
 
 🔗  
-`https://hifzank527.github.io/Todo-List-App/`
+`https://hifzank527.github.io/todo-list-app/`
 
 ---
 
